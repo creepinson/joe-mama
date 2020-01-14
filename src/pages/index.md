@@ -10,7 +10,7 @@ cta:
     - is_primary: false
       is_scrolly: false
       label: Click to see Joe in action!
-      url: joe.uwu.cam/mama
+      url: mama
   background_style: style1
   enabled: true
   text: ''
