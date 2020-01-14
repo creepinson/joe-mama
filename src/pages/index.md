@@ -3,13 +3,13 @@ title: Home
 banner:
   show_scroll_button: true
   subtitle: ''
-  title: Who is Joe?
+  title: Joe
 sections: []
 cta:
   actions:
     - is_primary: false
       is_scrolly: false
-      label: Click to see Joe in action!
+      label: Click to find out who dafuq Joe is.
       url: mama
   background_style: style1
   enabled: true
