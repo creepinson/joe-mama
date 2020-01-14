@@ -2,7 +2,7 @@
 title: Mama
 display_header: false
 subtitle: ''
-content_img: /images/joe.png
+content_img: /images/3aclk9.png
 home:
   highlights:
     enabled: false
