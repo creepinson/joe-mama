@@ -1,26 +1,26 @@
 {
-    "title": "Construct",
-    "palette": "blue",
-    "palettes": {
-        "blue": {
-            "sass": {
-                "color": "#4a74c9"
-            }
-        },
-        "cyan": {
-            "sass": {
-                "color": "#33bdb5"
-            }
-        },
-        "green": {
-            "sass": {
-                "color": "#459e59"
-            }
-        },
-        "red": {
-            "sass": {
-                "color": "#ce5667"
-            }
-        }
+  "title": "UwU | Joe",
+  "palette": "blue",
+  "palettes": {
+    "blue": {
+      "sass": {
+        "color": "#4a74c9"
+      }
+    },
+    "cyan": {
+      "sass": {
+        "color": "#33bdb5"
+      }
+    },
+    "green": {
+      "sass": {
+        "color": "#459e59"
+      }
+    },
+    "red": {
+      "sass": {
+        "color": "#ce5667"
+      }
     }
+  }
 }
