@@ -14,4 +14,16 @@ home:
     weight: 1
 template: page
 ---
+Joe is love. Joe is life. Joe is Mama and she has a knife.
 
+
+
+
+
+
+
+Papa used crap. It wasn’t very effective.
+
+
+
+Joe Mama used fork knife. It was very effective.
